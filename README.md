@@ -1,1 +1,4 @@
-# fullStackProject
+# Full Stack Project
+|    |        |
+| -------- | -------------- |
+| <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/others/ExemplaryFairFeline-max-1mb.gif" height="220px" width="350px"> |<img style="float: left;" src="https://img.shields.io/github/commit-activity/w/huaxing-w/LeetCodeLife"><br/><img style="float: left;" src="https://img.shields.io/github/last-commit/huaxing-w/LeetCodeLife"><br/><img style="float: left;" src="https://komarev.com/ghpvc/?username=huaxing-w"><br><img style="float: left;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
