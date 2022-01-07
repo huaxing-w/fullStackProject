@@ -5,23 +5,6 @@
 
 # [Resume](https://github.com/huaxing-w/fullStackProject/tree/main/projects/resume)
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/resume/other/resume%20project%20pic.png" height="220px" width="160px">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 # place holder
 # place holder
