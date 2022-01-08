@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.formName{
+    text-align: center;
+
+}
+.bank_address{
+    text-align: right;
+}
+.bank_date{
+    text-align: right;
+}
+
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px;
+}
+.sign{
+    text-align: right;
+}
+body{
+    background-color: bisque;
+}
