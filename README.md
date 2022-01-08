@@ -8,6 +8,8 @@
 
 # [Bank Loan Application](https://github.com/huaxing-w/fullStackProject/tree/main/projects/Bank%20Loan%20Application)
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/Bank%20Loan%20Application/others/bankapplication.png" height="320px" width="270px">
+
+
 # place holder
 # place holder
 # place holder
