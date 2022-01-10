@@ -10,6 +10,8 @@
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/Bank%20Loan%20Application/others/bankapplication.png" height="320px" width="270px">
 
 
+# [FaceBook Landing](https://github.com/huaxing-w/fullStackProject/tree/main/projects/FaceBook%20Landing)
+<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/FaceBook%20Landing/others/facebook%20landing%20page.png" height="250px" width="320px">
 # place holder
 # place holder
 # place holder
