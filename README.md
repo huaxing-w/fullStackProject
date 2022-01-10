@@ -14,7 +14,7 @@
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/FaceBook%20Landing/others/facebook%20landing%20page.png" height="240px" width="480px">
 
 # [User Authentication](https://github.com/huaxing-w/fullStackProject/tree/main/projects/User%20Authentication)
-<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/User%20Authentication/others/user%20authentication.gif" height="240px" width="480px">
+<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/User%20Authentication/others/user%20authentication.gif" height="240px" width="450px">
 
 
 # place holder
