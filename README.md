@@ -16,6 +16,9 @@
 # [User Authentication](https://github.com/huaxing-w/fullStackProject/tree/main/projects/User%20Authentication)
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/User%20Authentication/others/user%20authentication.gif" height="240px" width="450px">
 
+# [Meals](https://github.com/huaxing-w/fullStackProject/tree/main/projects/Meals)
+<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/Meals/others/meal.gif" height="320px" width="270px">
+
 
 # place holder
 # place holder
