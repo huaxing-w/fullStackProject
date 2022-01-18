@@ -20,6 +20,12 @@
 <img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/Meals/others/meal.gif" height="320px" width="350px">
 
 
+# [Covid Statistics](https://github.com/huaxing-w/fullStackProject/tree/main/projects/covid%20statistics)
+<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/covid%20statistics/others/covid.png" height="320px" width="450px">
+
+
+
+
 # place holder
 # place holder
 # place holder
