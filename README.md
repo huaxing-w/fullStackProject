@@ -26,7 +26,8 @@
 
 
 
-# place holder
+# [React-Counter](https://github.com/huaxing-w/fullStackProject/tree/main/projects/React-Counter)
+<img style="float: left;" src="https://github.com/huaxing-w/fullStackProject/blob/main/projects/React-Counter/public/Counter.png" height="320px" width="500px">
 # place holder
 # place holder
 # place holder
